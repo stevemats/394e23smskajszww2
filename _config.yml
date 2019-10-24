@@ -1,5 +1,7 @@
 layout: sidebar
-style: light
+style: dark
+
+# style: light
 
 plugins:
   - jekyll-octicons
