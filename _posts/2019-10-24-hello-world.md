@@ -36,7 +36,7 @@ public class java {
 }
 ```
 
-## HTML
+## hTMl
 ```html
 <html>
   <head><title>Title!</title></head>
@@ -66,8 +66,8 @@ body {
 }
 ```
 
-## Yaml
-```yaml
+## solidity
+```solidity
 ---
 one: Stevemats
 two: Stevo
