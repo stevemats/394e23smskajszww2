@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World In Solidity
-date: 2019-10-27 15:29
+date: 2020-01-10 15:29
 category: Solidity 
 author: Stevemats
 ---
