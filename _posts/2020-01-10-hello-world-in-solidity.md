@@ -6,7 +6,10 @@ category: Solidity
 author: Stevemats
 ---
 
-code:
+![image](../assets/images/solidity.png)
+
+## code  
+
 ```solidity
 pragma solidity ^0.5.3;
 
@@ -14,4 +17,5 @@ contract HelloWorld {
   string public greet = "Hello World!";
 }
 ```
-##### If you fall into an error check the version of solidity in your current environment. Update it to match the current one as in the above sample.
+
+- If you fall into an error check the version of solidity in your current environment. Update it to match the current one as in the above sample
